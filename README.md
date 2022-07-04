@@ -1,6 +1,6 @@
 # 02-JavaScript-And-CSS-Clock
 
-Date: July 3, 2022
+Date: July 4, 2022
 
 # Second challange of [JavaScript30](https://javascript30.com/)
 
@@ -17,7 +17,5 @@ Learn more about the course in [here](https://javascript30.com/).
 ![Screenshot](./assets/screenshot.png)
 
 ### Background Image
-
-Photo by <a href=""></a> on <a href=""></a>
 
 By [Jeremy Bishop](https://unsplash.com/@jeremybishop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/ocean?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
